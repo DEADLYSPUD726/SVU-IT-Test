@@ -1,4 +1,6 @@
-﻿using System;
+// This portion of the program allows the administrator to manage the users in their respective departments.
+
+using System;
 using System.Data;
 using System.Web;
 using System.Collections.Generic;
