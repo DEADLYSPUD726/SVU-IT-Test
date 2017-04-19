@@ -1,5 +1,4 @@
 // The departments view, allows the administrator to view which department and employee is part of.
-// It also allows them to add or delete an employee from a department.
 
 using CUS.Jenzabar.OdbcConnectionClass;
 using Jenzabar.Portal.Framework.Web.UI;
